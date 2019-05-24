@@ -24,6 +24,12 @@ jsproxy_config({
         'node-bwh-la.etherdream.com:8443'
       ]
     },
+    'example': {
+      label: '搬瓦工-洛杉矶',
+      lines: [
+        'example.com:8443'
+      ]
+    },
     'cfworker': {
       label: 'Cloudflare Worker',
       hidden: true,
